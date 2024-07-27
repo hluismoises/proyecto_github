@@ -1,12 +1,5 @@
-
-print("Hellooooooo")
+print("Hola mundo")
 
 print("hello")
 
 print("line 3")
-
-
-def sum(a,b):
-    return a+b
-
-
