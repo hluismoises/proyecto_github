@@ -1,9 +1,12 @@
-<<<<<<< HEAD
-print("Hola mundo")
+
+print("Hellooooooo")
 
 print("hello")
 
 print("line 3")
-=======
-print("Hellooooooo")
->>>>>>> dev
+
+
+def sum(a,b):
+    return a+b
+
+
